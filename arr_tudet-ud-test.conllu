@@ -1,1 +1,19 @@
+# sent_id = 001
+# text= war iyõm ip att
+# text_eng= my father brought a fish (Gabas 1999, 24)
+1	wat	wat	PRON	pron	Number=Sg|Person=1	2	det	2:det	_
+2	iyõm	iyõm	NOUN	n	_	4	nsubj	4:nsubj	_
+3	ip	ip	NOUN	n	_	4	obj	4:obj	_
+4	at	at	VERB	v	Mood=Ind	0	root	0:root	_
 
+# sent_id = 002
+# text = cawap wɨyt
+# text_eng = the sun rose (Gabas 1999, 24)
+1	cawap	cawap	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wɨyt	wɨyt	VERB	v	Mood=Ind	0	root	0:root	_
+
+# sent_id = 003
+# text = naʔcap yatep
+# text _eng = fallen head hair (Gabas 1999, 24)
+1	naʔcap	naʔcap	NOUN	n	_	0	root	0:root	_
+2	yatep	yatep	ADJ	adj	_	1	amod	1:amod	_
